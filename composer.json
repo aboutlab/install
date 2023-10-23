@@ -1,0 +1,18 @@
+{
+    "name": "aboutlab/install",
+    "description": "The AboutLab Install Package",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "catman",
+            "email": "catman@aboutlab.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        },
+        "files": [
+        ]
+    }
+}
